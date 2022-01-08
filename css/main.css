@@ -1,0 +1,51 @@
+body {
+
+    background-color: #8199D3;
+}
+
+.container {
+
+    width: 800px;
+    display: inline-block;
+
+}
+
+.left-column {
+
+    width: 40%;
+    display: inline-block;
+    background-color: aqua;
+    float: left;
+}
+
+.title {
+
+    color: white;
+    font-size: 30px;
+}
+
+.bottom-links {
+
+
+}
+
+a {
+
+    color: white;
+    font-size: 20px;
+
+}
+
+.right-column {
+
+   display: inline-block;
+   width: 60%;
+   float: right;
+   background-color: tomato;
+
+}
+
+.form {
+
+    padding: 20px;
+}
