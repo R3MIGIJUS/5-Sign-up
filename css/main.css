@@ -21,26 +21,37 @@ body {
     display: inline-block;
     background-color: #5136A5;
     float: left;
+    margin-top: 75px;
+    background-image: url(../img/hill.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .title {
 
     color: white;
     font-size: 30px;
+    margin-left: 100px;
+}
+
+.bottom-links {
+
+    margin-top: 300px;
+    margin-left: 50px;
+   
 }
 
 .bottom-links > span {
 
     color: white;
-
-
+    
 }
 
-a {
+.bottom-links >a {
 
     color: white;
-    font-size: 20px;
-
+    font-size: 15px;
+   
 }
 
 .right-column {
@@ -49,6 +60,7 @@ a {
    width: 60%;
    float: right;
    background-color: white;
+   margin-top: 50px;
 
 }
 
