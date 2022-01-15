@@ -11,8 +11,11 @@ Design: Sign up
 # Project features
 
 - GitHub Pages;
-- Fixed content width ;
+- CSS Forms;
 - CSS;
+- Additional pages;
+- Blur background;
+- CSS position Property;
 
 
 # Author
