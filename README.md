@@ -4,15 +4,18 @@ R3MIGIJUS project
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at : 
+Site published at : https://r3migijus.github.io/5-Sign-up/
 
 Design: Sign up
 
 # Project features
 
 - GitHub Pages;
-- Fixed content width ;
+- CSS Forms;
 - CSS;
+- Additional pages;
+- Blur background;
+- CSS position Property;
 
 
 # Author
