@@ -36,7 +36,7 @@ https://www.markdownguide.org/basic-syntax/
 
 >CSS taisyklė, paveldimos gali būti tik teksto rašymo stiliaus savybės. Elemento plotis nėra teksto savybė, todėl nėra ji paveldima. Todėl negali būti naudojama viename tag'e, turi būti atskirai kiekvienam tagui nurodyta elemento plotis, dydis ir t.t.
 
-# Pain.net Naudojimas
+# Paint.net Naudojimas
 - Norint iškirpti nuotrauką su kuo mažesniu likusiu fonu (Logotipui buvo naudojama) :
 
 <ol>
